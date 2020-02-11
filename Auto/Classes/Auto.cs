@@ -1,4 +1,4 @@
-﻿namespace Auto.Classes
+﻿namespace Auto
 {
     public class Auto
     {
